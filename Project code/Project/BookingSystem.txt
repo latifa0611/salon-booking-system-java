@@ -1,0 +1,44 @@
+Hair Service Details: 
+Style: null 
+Length: null 
+Color: null 
+Price: ١٠٠٫٠٠ $ 
+Duration: ٠ minutes 
+
+
+---------------------------------------------
+MakeUp Service Details:
+Type: null
+
+
+---------------------------------------------
+Manicure Service 
+Name: Remove Polish - 30 SAR
+Style: None
+Polish Color: None
+Price: ٣٠٫٠٠ $ 
+
+---------------------------------------------
+Welcome to the care section
+ our services:
+ Duration:٠
+ massage Therapy:false
+  Welcome to the skin care section
+ our services:
+ Skin Type:0
+ Facial Cleaning:Basic Facial 
+
+---------------------------------------------
+Welcome to the care section
+ our services:
+ Duration:٠
+ massage Therapy:false
+  Welcome to the body care section
+ our services:
+ Body Baths:Regular Moroccan bath
+ Hair Removal:null
+ Hand Care:null
+ Foot Care:null
+
+
+---------------------------------------------
